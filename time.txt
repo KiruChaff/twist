@@ -1,0 +1,7 @@
+1 took 1.2074496746063232 amount of seconds
+2 took 1.5598909854888916 amount of seconds
+3 took 2.0901801586151123 amount of seconds
+4 took 2.938889980316162 amount of seconds
+5 took 189.3171730041504 amount of seconds
+6 took 0.012853145599365234 amount of seconds
+7 took 0.007405757904052734 amount of seconds
